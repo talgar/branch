@@ -11,3 +11,9 @@ class Model {
     var name : String?
     var id : String?
 }
+
+
+class Model2 {
+    var name : String?
+    var id: String?
+}
